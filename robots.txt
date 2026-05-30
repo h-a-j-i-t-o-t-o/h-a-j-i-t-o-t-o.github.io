@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://h-a-j-i-t-o-t-o.github.io/hajipintar/sitemap.xml
