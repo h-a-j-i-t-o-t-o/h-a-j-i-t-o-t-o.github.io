@@ -1,1 +1,1 @@
-# h-a-j-i-t-o-t-o.github.io
+# h-a-j-i-t-o-t-o.github.io/hajipintar/
